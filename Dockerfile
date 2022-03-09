@@ -1,6 +1,6 @@
 FROM devopsedu/webapp
 
-RUN apt update
+RUN apt-get update
 
 RUN apt install -y apache2
 
