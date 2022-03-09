@@ -1,7 +1,5 @@
 FROM devopsedu/webapp
 
-RUN apt-get update
-
 RUN apt install -y apache2
 
 COPY projCert  /var/www/html/
