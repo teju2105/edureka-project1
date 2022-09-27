@@ -1,2 +1,3 @@
 Containerization using Docker
-To verify if the image has been pushed to docker, check the Docker hub account
+To create and verify the docker image using linux commands in compiler and pushing it to docker through jenkins job scheduling task
+check the Docker hub account
